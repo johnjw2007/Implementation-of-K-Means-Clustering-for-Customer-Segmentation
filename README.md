@@ -66,7 +66,6 @@ import pandas as pd
 
  
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
 ![image](https://github.com/user-attachments/assets/2ad72d93-a070-4785-998b-0001665d2af2)
 ![image](https://github.com/user-attachments/assets/13f09300-5852-4a27-96e7-c18422ef21be)
 
